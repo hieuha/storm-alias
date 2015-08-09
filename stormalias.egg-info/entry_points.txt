@@ -1,3 +1,0 @@
-[console_scripts]
-stormalias = alias.__main__:main
-
