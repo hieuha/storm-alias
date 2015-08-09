@@ -1,3 +1,4 @@
+Thanks @emre (https://github.com/emre/storm)  
 # Install
 `sudo python setup.py install`
 # Configuartion
