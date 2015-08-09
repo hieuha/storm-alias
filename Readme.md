@@ -19,4 +19,5 @@ Options:
 ```
 
 # Screenshot
-![IMAGE](resources/screenshot.jpg)
+![IMAGE](resources/stormalias.jpg)   
+![IMAGE](resources/screenshot.jpg)   
