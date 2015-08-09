@@ -6,7 +6,7 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     package_data={'alias': ['templates/*.html', 'static/css/*.css',
-                            'static/css/themes/storm/*.css', 'static/css/themes/storm/img/*.png',
+                            'static/css/themes/alias/*.css', 'static/css/themes/alias/img/*.png',
                             'static/js/*.js', 'static/js/core/*.js', 'static/favicon.ico']},
     include_package_data=True,
     url='https://bitbucket.org/hieuht/storm-alias',
