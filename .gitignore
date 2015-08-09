@@ -1,1 +1,4 @@
 *.pyc
+build/*
+dist/*
+stormalias.egg-info/*
